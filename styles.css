@@ -1,9 +1,11 @@
-a{
+.main{
 	width: 200px;
 	padding: 10px;
-    background-color: purple;
+	background-color: purple;
+	border-left: 5px solid green;
+}
+#heading{
 	color: white;
 	font-size: 20px;
-	border-left: 5px solid green;
 }
 /* Your CSS Code here. */
